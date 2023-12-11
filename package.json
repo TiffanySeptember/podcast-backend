@@ -1,0 +1,14 @@
+{
+  "name": "podcast-backend",
+  "version": "1.0.0",
+  "description": "Simple json database for podcast app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tiffany September",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
